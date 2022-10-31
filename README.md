@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @benessaessa mohamed essa
-- 👀 I’m interested in web design UI Development
-- 🌱 I’m currently learning framework
+- 👋 Hi, I’m @benessaessa mohamed essa UI Developer
+- 👀 I’m interested in creating responsive web applications with beautiful animations 
+- 🌱 creating landing pages - Email templates - dashboards - e-commerce websites and others 
 - 📫 01114205243 - moh.essa2020@gmail.com
 
 <!---
