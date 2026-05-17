@@ -6,7 +6,6 @@
 - landing pages , email templates and admins dashboard I have more than 5 years experience in this field.
 - 🌱 creating landing pages - Email templates - dashboards - e-commerce websites and others
 - https://grinta.ai/
-- https://github.com/benessaessa/
 - https://webkicks-dev.vercel.app/
 - https://meras-stage.vercel.app/
 - http://206.189.3.25/
